@@ -1,0 +1,12 @@
+streamlit
+flask
+spacy
+transformers
+apscheduler
+ortools
+email-validator
+python-dotenv
+requests
+uuid
+matplotlib
+networkx 

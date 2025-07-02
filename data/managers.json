@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Col. Smith",
+    "email": "rashed.rabby001@gmail.com",
+    "shifts": [
+      {"day": "Mon", "start": "00:00", "end": "12:00"},
+      {"day": "Tue", "start": "00:00", "end": "12:00"},
+      {"day": "Wed", "start": "00:00", "end": "12:00"},
+      {"day": "Thu", "start": "00:00", "end": "12:00"},
+      {"day": "Fri", "start": "00:00", "end": "12:00"},
+      {"day": "Sat", "start": "00:00", "end": "12:00"},
+      {"day": "Sun", "start": "00:00", "end": "12:00"}
+    ]
+  },
+  {
+    "name": "Jane Doe",
+    "email": "rashed.rabby001@gmail.com",
+    "shifts": [
+      {"day": "Mon", "start": "12:00", "end": "20:00"},
+      {"day": "Tue", "start": "12:00", "end": "20:00"},
+      {"day": "Wed", "start": "12:00", "end": "20:00"},
+      {"day": "Thu", "start": "12:00", "end": "20:00"},
+      {"day": "Fri", "start": "12:00", "end": "20:00"},
+      {"day": "Sat", "start": "12:00", "end": "20:00"},
+      {"day": "Sun", "start": "12:00", "end": "20:00"}
+    ]
+  },
+  {
+    "name": "John Adams",
+    "email": "rashed.developer43@gmail.com",
+    "shifts": [
+      {"day": "Mon", "start": "20:00", "end": "00:00"},
+      {"day": "Tue", "start": "20:00", "end": "00:00"},
+      {"day": "Wed", "start": "20:00", "end": "00:00"},
+      {"day": "Thu", "start": "20:00", "end": "00:00"},
+      {"day": "Fri", "start": "20:00", "end": "00:00"},
+      {"day": "Sat", "start": "20:00", "end": "00:00"},
+      {"day": "Sun", "start": "20:00", "end": "00:00"}
+    ]
+  },
+  {
+    "name": "Maj. Lee",
+    "email": "rashed.rabby001@gmail.com",
+    "shifts": [
+      {"day": "Mon", "start": "08:00", "end": "16:00"},
+      {"day": "Tue", "start": "08:00", "end": "16:00"},
+      {"day": "Wed", "start": "08:00", "end": "16:00"},
+      {"day": "Thu", "start": "08:00", "end": "16:00"},
+      {"day": "Fri", "start": "08:00", "end": "16:00"},
+      {"day": "Sat", "start": "08:00", "end": "16:00"},
+      {"day": "Sun", "start": "08:00", "end": "16:00"}
+    ]
+  },
+  {
+    "name": "Capt. Brown",
+    "email": "rashed.rabby001@gmail.com",
+    "shifts": [
+      {"day": "Mon", "start": "16:00", "end": "00:00"},
+      {"day": "Tue", "start": "16:00", "end": "00:00"},
+      {"day": "Wed", "start": "16:00", "end": "00:00"},
+      {"day": "Thu", "start": "16:00", "end": "00:00"},
+      {"day": "Fri", "start": "16:00", "end": "00:00"},
+      {"day": "Sat", "start": "16:00", "end": "00:00"},
+      {"day": "Sun", "start": "16:00", "end": "00:00"}
+    ]
+  }
+] 

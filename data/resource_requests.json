@@ -1,0 +1,321 @@
+[
+  {
+    "request_id": "R-2025-654adf23",
+    "items": [
+      {
+        "resource": "radios and 20 batteries from HQ to Outpost Alpha",
+        "quantity": 5
+      }
+    ],
+    "base_location": "HQ to Outpost Alpha.",
+    "destination": "Outpost Alpha.",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Approved",
+    "driver_tokens": {
+      "villainxhulk@gmail.com": "46650cff-847a-4e14-9bb2-fc55ca430f07"
+    },
+    "assigned_driver": {
+      "name": "Driver One",
+      "email": "villainxhulk@gmail.com"
+    },
+    "assignment_date": "2025-07-02 12:16:41.645217"
+  },
+  {
+    "request_id": "R-2025-424da8c7",
+    "items": [
+      {
+        "resource": "radios and 20 batteries from HQ to Outpost Alpha",
+        "quantity": 5
+      }
+    ],
+    "base_location": "HQ to Outpost Alpha.",
+    "destination": "Outpost Alpha.",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Approved",
+    "driver_tokens": {
+      "villainxhulk@gmail.com": "781be553-1791-4b0e-ac7d-0435aff230e4"
+    },
+    "assigned_driver": {
+      "name": "Driver One",
+      "email": "villainxhulk@gmail.com"
+    },
+    "assignment_date": "2025-07-02 12:23:47.489041"
+  },
+  {
+    "request_id": "R-2025-f1d0a449",
+    "items": [
+      {
+        "resource": "radios and 20 batteries from HQ to Outpost Alpha",
+        "quantity": 5
+      }
+    ],
+    "base_location": "HQ to Outpost Alpha.",
+    "destination": "Outpost Alpha.",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Approved",
+    "driver_tokens": {
+      "villainxhulk@gmail.com": "0bd277a3-9850-4675-8c0d-1040688b2876"
+    },
+    "assigned_driver": {
+      "name": "Driver One",
+      "email": "villainxhulk@gmail.com"
+    },
+    "assignment_date": "2025-07-02 12:32:14.460839"
+  },
+  {
+    "request_id": "R-2025-266ab000",
+    "items": [
+      {
+        "resource": "radios and 20 batteries from HQ to Outpost Alpha",
+        "quantity": 5
+      }
+    ],
+    "base_location": "HQ to Outpost Alpha.",
+    "destination": "Outpost Alpha.",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Approved",
+    "driver_tokens": {
+      "villainxhulk@gmail.com": "83bdda31-23aa-44a6-aadc-119ff549d108"
+    },
+    "assigned_driver": {
+      "name": "Driver One",
+      "email": "villainxhulk@gmail.com"
+    },
+    "assignment_date": "2025-07-02 12:50:36.923084"
+  },
+  {
+    "request_id": "R-2025-588f6ba0",
+    "items": [
+      {
+        "resource": "boxes of batteries and 5 tents from Main Base 2 to Outpost Charlie",
+        "quantity": 10
+      }
+    ],
+    "base_location": "Main Base 2 to Outpost Charlie.",
+    "destination": "Outpost Charlie.",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Approved",
+    "priority": 0,
+    "driver_tokens": {
+      "villainxhulk@gmail.com": "ccecdf72-caf9-40a4-8ca7-f9ad3e517f6f"
+    },
+    "assigned_driver": {
+      "name": "Driver One",
+      "email": "villainxhulk@gmail.com"
+    },
+    "assignment_date": "2025-07-02 13:04:29.952735"
+  },
+  {
+    "request_id": "R-2025-9024c381",
+    "items": [
+      {
+        "resource": "medical kits and 2 radios from HQ to Outpost Bravo",
+        "quantity": 3
+      }
+    ],
+    "base_location": "HQ to Outpost Bravo.  This is urgent and needed ASAP.",
+    "destination": "Outpost Bravo.  This is urgent and needed ASAP.",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Approved",
+    "priority": 1,
+    "driver_tokens": {
+      "villainxhulk@gmail.com": "8510b87a-5cc1-41f5-a2f0-19e718da63d9"
+    },
+    "assigned_driver": {
+      "name": "Driver One",
+      "email": "villainxhulk@gmail.com"
+    },
+    "assignment_date": "2025-07-02 13:19:52.862050"
+  },
+  {
+    "request_id": "R-2025-2351e879",
+    "items": [
+      {
+        "resource": "medical kits and 2 radios from HQ to Outpost Bravo",
+        "quantity": 3
+      }
+    ],
+    "base_location": "HQ to Outpost Bravo. not so urgent",
+    "destination": "Outpost Bravo. not so urgent",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Rejected",
+    "priority": 1
+  },
+  {
+    "request_id": "R-2025-76bef58c",
+    "items": [
+      {
+        "resource": "radios and 20 batteries from HQ to Outpost Alpha",
+        "quantity": 5
+      }
+    ],
+    "base_location": "HQ to Outpost Alpha",
+    "destination": "Outpost Alpha",
+    "managers": [
+      {
+        "name": "Jane Doe",
+        "email": "rashed.rabby001@gmail.com"
+      },
+      {
+        "name": "Maj. Lee",
+        "email": "rashed.rabby001@gmail.com"
+      }
+    ],
+    "approved_by": {
+      "name": "Jane Doe",
+      "email": "rashed.rabby001@gmail.com"
+    },
+    "delivery_person": {
+      "name": null,
+      "email": null
+    },
+    "delivery_route": [],
+    "request_date": "2025-07-01",
+    "close_date": null,
+    "status": "Approved",
+    "priority": 1,
+    "driver_tokens": {
+      "villainxhulk@gmail.com": "f2fbc6bc-43ae-4ded-9a16-5abfcfae9e86"
+    }
+  }
+]
